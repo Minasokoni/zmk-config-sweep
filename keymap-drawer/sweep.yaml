@@ -10,16 +10,16 @@ layers:
   - I
   - O
   - P
-  - {t: 'A,', h: LSHIFT}
-  - {t: 'S,', h: LALT}
-  - {t: 'D,', h: LCTRL}
-  - {t: F), h: LGUI}
+  - {t: A, h: LSHIFT}
+  - {t: S, h: LALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LGUI}
   - G
   - H
-  - {t: 'J,', h: RGUI}
-  - {t: 'K,', h: RCTRL}
-  - {t: 'L,', h: RALT}
-  - {t: SQT), h: RSHIFT}
+  - {t: J, h: RGUI}
+  - {t: K, h: RCTRL}
+  - {t: L, h: RALT}
+  - {t: '''', h: RSHIFT}
   - Z
   - X
   - C
@@ -31,8 +31,8 @@ layers:
   - .
   - /
   - {t: TAB, h: left}
-  - ENTER
   - SPACE
+  - RETURN
   - {t: BSPC, h: right}
   right:
   - INS
@@ -139,3 +139,38 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  function:
+  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - F4
+  - F5
+  - F6
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - F7
+  - F8
+  - F9
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
