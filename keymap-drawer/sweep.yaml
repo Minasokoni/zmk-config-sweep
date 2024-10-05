@@ -10,16 +10,16 @@ layers:
   - I
   - O
   - P
-  - {t: A, h: LSHFT}
-  - {t: S, h: LALT}
-  - {t: D, h: LCTRL}
-  - {t: F, h: LGUI}
+  - {t: 'A,', h: LSHIFT}
+  - {t: 'S,', h: LALT}
+  - {t: 'D,', h: LCTRL}
+  - {t: F), h: LGUI}
   - G
   - H
-  - {t: J, h: RGUI}
-  - {t: K, h: RCTRL}
-  - {t: L, h: RALT}
-  - {t: '''', h: RSHFT}
+  - {t: 'J,', h: RGUI}
+  - {t: 'K,', h: RCTRL}
+  - {t: 'L,', h: RALT}
+  - {t: SQT), h: RSHIFT}
   - Z
   - X
   - C
