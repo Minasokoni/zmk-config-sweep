@@ -31,7 +31,7 @@ layers:
   - .
   - /
   - {t: TAB, h: left}
-  - SPACE
+  - {t: SPACE, h: Meh+ SPACE}
   - RETURN
   - {t: BSPC, h: right}
   right:
@@ -60,10 +60,10 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PREV
+  - VOL DN
+  - VOL UP
+  - NEXT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ESC
@@ -174,3 +174,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+combos:
+- p: [0, 1]
+  k: TAB
