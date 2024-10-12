@@ -31,7 +31,7 @@ layers:
   - .
   - /
   - {t: TAB, h: left}
-  - {t: SPACE, h: Meh+ SPACE}
+  - {t: SPACE, h: Ctl+Alt+ SPACE}
   - RETURN
   - {t: BSPC, h: right}
   right:
